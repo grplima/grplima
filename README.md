@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @grplima
-- 👀 I’m interested in BI / Data Science
-- 🌱 I’m currently learning MySql and PowerBI
 - 📫 grplima88@gmail.com | @grplima
 
 <!---
